@@ -1,3 +1,3 @@
 # datathon 2023
 
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=http://www.learningaboutelectronics.com/Articles/Headache-and-low-back-pain.pptx' width='80%' height='565px' frameborder='0'> </iframe>
+[pairplot]([https://pypi.org/project/pytesseract/](https://github.com/pilarcode/datathon_datamecum/blob/main/images/pairplot.png))
