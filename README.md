@@ -1,3 +1,15 @@
 # datathon 2023
 
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=http://www.learningaboutelectronics.com/Articles/Headache-and-low-back-pain.pptx' width='80%' height='565px' frameborder='0'> </iframe>
+![datathon 2023](https://github.com/pilarcode/datathon_datamecum/blob/main/images/portada.png)
+
+## Data distribution
+![pairplot](https://github.com/pilarcode/datathon_datamecum/blob/main/images/pairplot.png)
+
+## Correlation matrix and feature importance
+![correlation matrix](https://github.com/pilarcode/datathon_datamecum/blob/main/images/correlation_matrix.png)
+
+## Train and Test metrics 
+![Train](https://github.com/pilarcode/datathon_datamecum/blob/main/images/xgb_classifier_train.png)
+
+![Test](https://github.com/pilarcode/datathon_datamecum/blob/main/images/xgb_classifier_test.png)
+
