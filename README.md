@@ -1,7 +1,5 @@
 # datathon 2023
 
-![datathon 2023](https://github.com/pilarcode/datathon_datamecum/blob/main/images/portada.png)
-
 ## Data distribution
 ![pairplot](https://github.com/pilarcode/datathon_datamecum/blob/main/images/pairplot.png)
 
