@@ -1,4 +1,4 @@
-# datathon 2023
+# Datathon datamecum ed1- Marzo 2023
 
 ## Data distribution
 ![pairplot](https://github.com/pilarcode/datathon_datamecum/blob/main/images/pairplot.png)
